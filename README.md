@@ -1,6 +1,6 @@
 A C++ project that is used for taking in WhatsApp message logs and outputting data on the conversation(s)
 
-Main roadblock is implementing data that includes usage of emojis.
+able to read data about emojis using ASCII-16.
 
 Data gotten from sample message log:
 
